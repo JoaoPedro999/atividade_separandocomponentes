@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     width: "100%",
     height: 50,
-    bottom: "45%",
+    bottom: "42.5%",
   },
   rodape: {
     backgroundColor: "gray",
