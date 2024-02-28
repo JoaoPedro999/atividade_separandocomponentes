@@ -1,5 +1,5 @@
 import { Text, View, StyleSheet, Button } from "react-native";
-import styles from ("../styles/component_style");
+import styles from "../styles/component_style";
 
 export default function Component2() {
         btn = () => {

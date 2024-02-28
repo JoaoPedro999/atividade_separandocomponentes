@@ -9,7 +9,7 @@ import {
   ImageBackground,
 } from "react-native";
 
-import styles from ("./src/assets/styles/component_style");
+import styles from "./src/assets/styles/component_style";
 import Component1 from "./src/components/component1";
 import Component2 from "./src/components/component2";
 import Component3 from "./src/components/component3";
